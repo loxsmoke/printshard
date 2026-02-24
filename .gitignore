@@ -407,6 +407,8 @@ FodyWeavers.xsd
 # Local History for Visual Studio Code
 .history/
 
+.claude/settings.local.json
+
 # Built Visual Studio Code Extensions
 *.vsix
 
