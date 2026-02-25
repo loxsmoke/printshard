@@ -6,6 +6,10 @@ Load an image, configure how many pages wide and tall you want, and PrintShard s
 
 ---
 
+![PrintShard screenshot](screenshot.png)
+
+---
+
 ## Features
 
 - **Tile any image** across any grid of pages (columns × rows)
